@@ -11,7 +11,7 @@ public class ExempleDUtilisation {
         new ExempleDUtilisation().exemple();
     }
 
-    public void exemple() {
+    public void exemple () {
         Bandeau monBandeau = new Bandeau();
         Font font = monBandeau.getFont();
         Color back = monBandeau.getBackground();
